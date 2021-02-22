@@ -4,7 +4,7 @@ This circuit simulator reads a text input file representing the circuit and dete
 
 This circuit simulator works for any circuit which consist of only independent voltage sources, independent current sources and resistors. 
 
-Text input file must include a net list of the circuit.
+Text input file must include a net list of the circuit. Creating netlist is visualized by a image. Check "Netlist Example.PNG" file and also "Netlist Example.txt" file at Circuit Simulator directory. 
 
 
 Modified Node Analysis (MNA) algorithm:
